@@ -1,5 +1,5 @@
 {
-	"name": "vrana/notorm",
+	"name": "zinuzoid/notorm",
 	"description": "NotORM is a PHP library for simple working with data in the database.",
 	"keywords": ["database", "dbal"],
 	"homepage": "http://www.notorm.com/",
@@ -8,6 +8,10 @@
 		{
 			"name": "Jakub Vrána",
 			"homepage": "http://www.vrana.cz/"
+		},
+		{
+			"name": "Jetsada Machom",
+			"homepage": "http://imjim.im/"
 		}
 	],
 	"autoload": {
